@@ -1,3 +1,4 @@
+# Belum Full Update !!
 # Warning
 >> Script Free Yah Ngab 🤗
 >> Jangan Di Jual, Nanti Gua Hapus Lohh 🤣

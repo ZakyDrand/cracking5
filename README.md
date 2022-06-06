@@ -1,3 +1,10 @@
+# Warning
+>> Script Free Yah Ngab 🤗
+>> Jangan Di Jual, Nanti Gua Hapus Lohh 🤣
+>> Hasilnya Ngga Cp² Amat Kog, Masih Ada OK nya Santuy Aja 👏
+>> Tumbal Loh Juga Awet, Soalnya Anti Bot²an Kek SC Lain 🗿
+>> Jangan Lupa Kasih Bintang + Follow Yahh 🖕
+>> 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 # Pake Doang Ngga Follow, Kontoll Loh
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟

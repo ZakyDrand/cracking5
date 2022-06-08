@@ -8,6 +8,8 @@
 >> Jangan Lupa Kasih Bintang + Follow Yahh 🖕
 >> 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 # Pake Doang Ngga Follow, Kontoll Loh
+logo 🌟
+![deskripsi gambar](https://i.ibb.co/PDYG9k9/Screenshot-2022-06-07-00-09-35-347-com-termux.png)
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈

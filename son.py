@@ -1,1 +1,1 @@
->>> Sabar Ngav Lagi Update 🎉
+print('>>> Sabar Ngav Lagi Update 🎉')

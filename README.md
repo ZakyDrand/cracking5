@@ -1,4 +1,5 @@
 # Belum Full Update !!
+# Support 64/32 bit 
 # Gratis / Free 🔥
 # Warning
 >> Script Free Yah Ngab 🤗

@@ -16,9 +16,9 @@ Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
 ```bash
 $ cd
-$ apt update && apt upgrade
-$ apt install python git
-$ pkg install play audio
+$ pkg update && apt upgrade
+$ pkg install python git
+$ pkg install play-audio
 $ pip install requests mechanize
 $ pip install rich bs4
 $ pip install --upgrade pip

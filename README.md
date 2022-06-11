@@ -18,6 +18,7 @@ Download apk Termuxnya disini biar ngga eror🌟
 $ cd
 $ apt update && apt upgrade
 $ apt install python git
+$ pkg install play audio
 $ pip install requests mechanize
 $ pip install rich bs4
 $ pip install --upgrade pip
